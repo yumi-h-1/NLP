@@ -1,0 +1,3 @@
+https://github.com/jianguoz/Few-Shot-Intent-Detection
+
+https://www.kaggle.com/code/samarthagarwal23/tutorial-sbert-finetuning-on-banking77-dataset/notebook
