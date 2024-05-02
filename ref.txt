@@ -21,3 +21,7 @@ https://dreamfactory100.tistory.com/category/AI%20%26%20Business%20%28%EC%9D%B8%
 https://github.com/keitakurita/practical-torchtext/blob/master/Lesson%202%20torchtext%20for%20language%20modeling.ipynb
 
 https://wikidocs.net/166796
+
+https://www.kaggle.com/code/goutham794/distill-bert-fine-tuning-huggingface-and-pytorch
+
+https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
