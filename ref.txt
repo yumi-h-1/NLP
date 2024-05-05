@@ -25,3 +25,9 @@ https://wikidocs.net/166796
 https://www.kaggle.com/code/goutham794/distill-bert-fine-tuning-huggingface-and-pytorch
 
 https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
+
+https://keras.io/keras_tuner/
+
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+
+https://blog.naver.com/mae_seok/223381552814
