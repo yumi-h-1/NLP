@@ -31,3 +31,5 @@ https://keras.io/keras_tuner/
 https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
 
 https://blog.naver.com/mae_seok/223381552814
+
+https://wikidocs.net/33793
