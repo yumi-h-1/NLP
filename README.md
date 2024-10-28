@@ -1,6 +1,6 @@
 # Classifying Bank Customer Service Questions
 ## Project Overview
-This project focuses on developing classifiers with LSTM and DistilBERT for categorizing user inquiries in chatbot applications, using the Banking77 dataset. By comparing LSTM models with different word embeddings against the streamlined DistilBERT model, we aim to determine which model balances performance, cost, and speed, helping companies choose the optimal solution for effective and efficient chatbot deployment.
+This project focuses on developing classifiers using LSTM and DistilBERT to categorise user enquiries in chatbot applications, leveraging the Banking77 dataset. By comparing LSTM models with various word embeddings against the streamlined DistilBERT model, we aim to determine which model best balances performance, cost, and speed, helping companies select the optimal solution for effective and efficient chatbot deployment.
 
 ## Project Files
 - **Data**: Images are stored in the `data/image` and a video is in the `data/video` folder.
