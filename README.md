@@ -58,4 +58,4 @@ This project focuses on developing classifiers using LSTM and DistilBERT to cate
 
 
 ## Used Datasets
-- [**Banking77**](https://youtu.be/W_9jLju5FuQ?feature=shared](https://huggingface.co/datasets/PolyAI/banking77)
+- [**Banking77**](https://huggingface.co/datasets/PolyAI/banking77)
