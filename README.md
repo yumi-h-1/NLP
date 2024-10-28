@@ -24,17 +24,17 @@ This project focuses on developing classifiers using LSTM and DistilBERT to cate
     - Adam optimizer (learning rate 0.001) and sparse categorical cross-entropy as the loss function.
     - Dropout regularisation (0.2) to prevent overfitting and early stopping set to 100 epochs with 20 patience.
 
-    *** The best LSTM training loss***
+    ***The best LSTM training loss***
     
     ![lstm-best-model-training-loss](results/figures/lstm-best-model-training-loss.png)
 
-    *** The best LSTM training accuracy***
+    ***The best LSTM training accuracy***
     
     ![lstm-best-model-training-accuracy](results/figures/lstm-best-model-training-accuracy.png)
 
   - ***DistilBERT Model***: Used Hugging Face’s pre-trained DistilBERT with a linear layer adjusted for 77-class output. Training was limited to 5 epochs, with no additional hyperparameter tuning or layer adjustments.
 
-    *** The best DistilBERT training accuracy***
+    ***The best DistilBERT training accuracy***
     
     ![distilbert-training-plot](results/figures/distilbert-training-plot.png)
 
